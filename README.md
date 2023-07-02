@@ -21,7 +21,7 @@ This Social Network API allows you to connect connect with friends, share conten
 
 ## Usage
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1zEFfivD1McJcZBj5iFdTVM3LijSIS3SW/view)
 
 ## Credits
 
