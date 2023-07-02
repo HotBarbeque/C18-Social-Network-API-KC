@@ -17,7 +17,7 @@ This Social Network API allows you to connect connect with friends, share conten
 <br>To get this app to work:</br>
 <br>Clone this repo.</br>
 <br>Then `npm i` and make sure you have mongoose and express.js as dependencies</br>
-<br>Run with `npm run` and use Insomnia (or a similar application) to test</br>
+<br>Run with `npm start` and use Insomnia (or a similar application) to test</br>
 
 ## Usage
 
